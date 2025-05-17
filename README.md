@@ -2,7 +2,7 @@
 
 This is a 100% **free, no-code AI workflow** built with [n8n](https://n8n.io/) that automatically creates and posts a weekly AI digest to your personal LinkedIn profile.
 
-It fetches the latest AI news, summarizes the most relevant stories for small business owners using free AI models (Groq + LangChain), and optionally sends the draft for approval via email before publishing to LinkedIn.
+It fetches the latest AI news, summarizes the most relevant stories for small business owners using free AI models, and optionally sends the draft for approval via email before publishing to LinkedIn.
 
 ---
 
