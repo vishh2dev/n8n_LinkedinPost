@@ -2,7 +2,7 @@
 
 This is a 100% **free, no-code AI workflow** built with [n8n](https://n8n.io/) that automatically creates and posts a weekly AI digest to your personal LinkedIn profile.
 
-It fetches the latest AI news, summarizes the most relevant stories for small business owners using free AI models, and optionally sends the draft for approval via email before publishing to LinkedIn.
+It fetches the latest AI news, summarises the most relevant stories for small business owners using free AI models, and optionally sends the draft for approval via email before publishing to LinkedIn.
 
 ---
 
@@ -32,7 +32,7 @@ Help busy SMB founders and marketers stay updated on the most impactful AI news 
 
 | Feature                      | Tool/Service       | Free? |
 |-----------------------------|--------------------|-------|
-| AI Summarization            | Groq + LangChain   | ✅ Yes |
+| AI Summarization            | Groq               | ✅ Yes |
 | Workflow Orchestration      | n8n                | ✅ Yes |
 | Email Approval Flow         | Gmail OAuth        | ✅ Yes |
 | Social Media Posting        | LinkedIn API       | ✅ Yes |
@@ -113,22 +113,10 @@ Once approved, the post is auto-published to LinkedIn.
 
 ---
 
-## 📜 License
 
-MIT License — free to use, remix, and share.
-
----
-
-## 💬 Support
-
-If you have any issues, feel free to [open an issue](https://github.com/yourusername/yourrepo/issues) or connect on [LinkedIn](https://www.linkedin.com/).
-
----
 
 ### ⭐ Bonus Tip
 
 You can host n8n for free on [Render](https://render.com), [Fly.io](https://fly.io), or [Railway](https://railway.app) to keep this running 24/7 for $0/month.
 
----
 
-Made with 💚 for solopreneurs, indie hackers & AI creators.
